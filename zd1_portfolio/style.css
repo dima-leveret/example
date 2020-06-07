@@ -1,0 +1,128 @@
+/* Background pattern from Toptal Subtle Patterns */
+body
+{
+    background-image: url("back.png");
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+}
+
+#container
+{
+    width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: blueviolet;
+}
+
+#rectangle1
+{
+    width: 1480px;
+    height: 124px;
+    margin: 10px;
+    margin-bottom: 0px;
+    background-color: chocolate;
+}
+
+.tile1
+{
+    margin: 10px;
+    width: 350px;
+    height: 104px;
+    float: left;
+    background-color: dodgerblue;
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+    
+}
+
+.tile2
+{
+    margin: 10px;
+    width: 350px;
+    height: 104px;
+    float: left;
+    background-color: mediumseagreen;
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+}
+
+.tile3
+{
+    margin: 10px;
+    width: 350px;
+    height: 104px;
+    float: left;
+    background-color: coral;
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+}
+
+.tile4
+{
+    margin: 10px;
+    width: 350px;
+    height: 104px;
+    float: left;
+    background-color: crimson;
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+}
+
+#square1
+{
+    width: 430px;
+    margin: 10px;
+    margin-top: 0px;
+    float: left;
+    background-color: cornsilk;
+}
+
+#tile5
+{
+    margin: 10px;
+    width: 408px;
+    height: 754px;
+    float: left;
+    background-color: gray;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#square2
+{
+    width: 1030px;
+    margin: 10px;
+    margin-top: 0px;
+    float: left;
+    background-color: darkkhaki;
+}
+
+#tile6
+{
+    margin: 10px;
+    width: 1010px;
+    height: 630px;
+    float: left;
+    background-color: navy;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.fb
+{
+    margin: 10px;
+    width: 495px;
+    height: 104px;
+    float: left;
+    background-color: #4668b3;
+    text-align: center;
+}
+
+.gh
+{
+    margin: 10px;
+    width: 495px;
+    height: 104px;
+    float: left;
+    background-color: black;
+    text-align: center;
+}
